@@ -1,4 +1,4 @@
-# oibsip_taskno1
+# Iris flower classification
 
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
 measurements. Now assume that you have the measurements of the iris flowers according to
